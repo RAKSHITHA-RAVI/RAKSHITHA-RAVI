@@ -3,7 +3,7 @@
 
 **Data & AI professional** · MS Information Technology (Data & AI) @ Arizona State University · 4.0 GPA
 
-I turn messy, siloed data into something a business can actually act on. That might mean engineering a distributed ETL pipeline, running a statistically rigorous A/B experiment across 50,000 users, building a dashboard that shifts budget decisions, or wiring up a multi-agent AI system that replaces an entire manual workflow. The problem defines the tool — I've built across the full stack to solve it.
+I turn messy, siloed data into something a business can actually act on. That might mean engineering a distributed ETL pipeline, running a statistically rigorous A/B experiment across 50,000 users, building a dashboard that shifts budget decisions, or wiring up a multi-agent AI system that replaces an entire manual workflow.
 
 Currently working across **data engineering, analytics, machine learning, and agentic AI** — from Medallion Lakehouses on Databricks and cloud pipelines on AWS to LangGraph multi-agent systems, RAG platforms, and executive dashboards in Power BI and Tableau.
 
