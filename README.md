@@ -1,6 +1,4 @@
 # Hi, I'm Rakshitha 👋
-📍United States &nbsp;|&nbsp; 📬 rakshithabr2925@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rakshitha-ravishankar29/)
-
 **Data & AI professional** · MS Information Technology (Data & AI) @ Arizona State University · 4.0 GPA
 
 I turn messy, siloed data into something a business can actually act on. That might mean engineering a distributed ETL pipeline, running a statistically rigorous A/B experiment across 50,000 users, building a dashboard that shifts budget decisions, or wiring up a multi-agent AI system that replaces an entire manual workflow.
