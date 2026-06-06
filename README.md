@@ -1,11 +1,9 @@
 # Hi, I'm Rakshitha 👋
-**Data & AI professional** · MS Information Technology (Data & AI) @ Arizona State University · 4.0 GPA
 
-I turn messy, siloed data into something a business can actually act on. That might mean engineering a distributed ETL pipeline, running a statistically rigorous A/B experiment across 50,000 users, building a dashboard that shifts budget decisions, or wiring up a multi-agent AI system that replaces an entire manual workflow.
-
-Currently working across **data engineering, analytics, machine learning, and agentic AI** — from Medallion Lakehouses on Databricks and cloud pipelines on AWS to LangGraph multi-agent systems, RAG platforms, and executive dashboards in Power BI and Tableau.
-
-When I'm not building, I'm exploring a new city with no fixed plan or hunting for music nobody in my contacts has heard yet. I've always believed that curiosity about people, places, and why things work the way they do is what separates good work from great work. That curiosity is what drives everything I build.
+- 🎓 BE in ISE (BMS College, Bangalore) → MS in Information Technology & AI (Arizona State University · 4.0 GPA)
+- 💼 Data & AI professional — data engineering, analytics, machine learning, and agentic AI
+- 🏥 Grew up wanting to be a doctor. Turns out data does the same thing — finding the signal in the noise and making a call that changes the outcome. The tools changed. The obsession didn't.
+- 🌍 When I'm not building pipelines, I'm exploring a new city with no fixed plan or finding music nobody in my contacts has heard yet
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +38,6 @@ When I'm not building, I'm exploring a new city with no fixed plan or hunting fo
 **AI & Machine Learning**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-BA7517?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
