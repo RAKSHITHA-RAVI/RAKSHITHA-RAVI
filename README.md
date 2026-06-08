@@ -1,6 +1,6 @@
 # Hi, I'm Rakshitha 👋
 
-- 🎓 BE in ISE (BMS College, Bangalore) → MS in Information Technology & AI (Arizona State University · 4.0 GPA)
+- 🎓 BE in ISE (BMS College of Engineering) → MS in Information Technology & AI (Arizona State University · 4.0 GPA)
 - 💼 Data & AI professional — data engineering, analytics, machine learning, and agentic AI
 - 🏥 Grew up wanting to be a doctor. Turns out data does the same thing — finding the signal in the noise and making a call that changes the outcome. The tools changed. The obsession didn't.
 - 🌍 When I'm not building pipelines, I'm exploring a new city with no fixed plan or finding music nobody in my contacts has heard yet
